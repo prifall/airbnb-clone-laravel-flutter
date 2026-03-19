@@ -354,7 +354,7 @@ FILESYSTEM_DISK=public
 - Calendar-based availability
  
 ### 🧭 Tours
-- Duration display (e.g. `5H`, `2 Days`)
+- Duration display
 - Discount percentage badges
 - Group capacity configuration
 - Category & highlight tags
