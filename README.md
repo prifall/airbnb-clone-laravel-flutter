@@ -8,9 +8,9 @@
 Replicates the core experience of Airbnb with extended support for Hotels, Spaces, Tours, Cars, Events, Boats & Flights.
  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-moonbnb.goodcoderz.com-brightgreen?style=for-the-badge&logo=google-chrome)](https://moonbnb.goodcoderz.com/)
-[![PHP](https://img.shields.io/badge/PHP-Laravel-FF2D20?style=for-the-badge&logo=laravel)](https://laravel.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-3.10.6-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev/)
-[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![PHP](https://img.shields.io/badge/PHP-Laravel-FF2D20?style=for-the-badge&logo=laravel)]
+[![Flutter](https://img.shields.io/badge/Flutter-3.10.6-02569B?style=for-the-badge&logo=flutter)]
+[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql)]
  
 </div>
  
