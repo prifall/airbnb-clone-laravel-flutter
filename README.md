@@ -83,13 +83,13 @@ The platform ships with:
 - Date range picker (Check-in / Check-out)
 - Guest/room/traveler count selectors
 - **Dual layout**: List view + Interactive Map view for all verticals
-- Location detail pages (e.g., `/location/paris`)
+- Location detail pages
 - Destination cards with live listing counts
  
 ### 👤 User & Vendor Management
  
 - User registration, login, forgot password
-- Vendor/Host onboarding flow (`/page/become-a-vendor`)
+- Vendor/Host onboarding flow
 - User profile and booking management
 - Review & rating system (Cleanliness, Accuracy, Check-in, Communication)
 - Guest/host messaging
@@ -98,7 +98,7 @@ The platform ships with:
  
 - Multiple homepage layouts (Default, v2, Hotel, Tour Agency, Tour, Space, Car)
 - Blog/News system with categories and SEO slugs
-- Pricing/subscription plans (`/plan`)
+- Pricing/subscription plans
 - Newsletter subscription
 - Contact page with form
 - Multi-language support (English 🇺🇸 / Japanese 🇯🇵)
@@ -501,21 +501,3 @@ php artisan queue:work --daemon
  
 ---
  
-## 🤝 Contributing
- 
-Contributions, issues and feature requests are welcome!
- 
-```bash
-# Fork the repo and create your branch
-git checkout -b feature/your-feature-name
- 
-# Make your changes and commit
-git commit -m "feat: add your feature description"
- 
-# Push and open a Pull Request
-git push origin feature/your-feature-name
-```
- 
-Please follow [Conventional Commits](https://www.conventionalcommits.org/) for commit messages.
- 
----
