@@ -39,7 +39,7 @@ Replicates the core experience of Airbnb with extended support for Hotels, Space
  
 ## 🌍 Overview
  
-**MoonBnb** is a production-ready Airbnb-style clone that goes beyond just property rentals. It is a full-featured travel marketplace supporting multiple booking verticals — from hotels and vacation spaces to guided tours, car rentals, boat charters, and events.
+**MoonBnb** is a production-ready Airbnb-style clone that goes beyond just property rentals. It is a full-featured travel marketplace supporting multiple booking verticals: from hotels and vacation spaces to guided tours, car rentals, boat charters, and events.
  
 The platform ships with:
 - A **PHP/Laravel** web application with multiple homepage layouts
@@ -55,11 +55,6 @@ The platform ships with:
  
 > **Web:** [https://moonbnb.goodcoderz.com/](https://moonbnb.goodcoderz.com/)
  
-| Role | Email | Password |
-|------|-------|----------|
-| Admin | admin@demo.com | password |
-| Vendor/Host | vendor@demo.com | password |
-| Guest | guest@demo.com | password |
  
 ---
  
@@ -240,7 +235,7 @@ moonbnb/
  
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/moonbnb.git
+git clone https://github.com/YOUR-GITHUB-USERNAME/moonbnb.git
 cd moonbnb
  
 # 2. Install PHP dependencies
@@ -489,15 +484,44 @@ php artisan queue:work --daemon
  
 ## 📱 Screenshots
  
-| Home Page | Hotel Listing | Space Detail |
-|-----------|--------------|--------------|
-| *(add screenshot)* | *(add screenshot)* | *(add screenshot)* |
+### 🏠 Homepage
+{insert "Homepage Screenshot" image here}
+> 1280 x 720 px — PNG or JPG
  
-| Map View | Tour Booking | Mobile App |
-|----------|-------------|------------|
-| *(add screenshot)* | *(add screenshot)* | *(add screenshot)* |
+### 🏨 Hotel Listing
+{insert "Hotel Listing Page" image here}
+> 1280 x 720 px — PNG or JPG
  
-> 💡 Replace placeholders with real screenshots from [https://moonbnb.goodcoderz.com/](https://moonbnb.goodcoderz.com/)
+### 🏡 Space Detail
+{insert "Space Detail Page" image here}
+> 1280 x 720 px — PNG or JPG
+ 
+### 🗺️ Map View
+{insert "Map View" image here}
+> 1280 x 720 px — PNG or JPG
+ 
+### 🧭 Tour Booking
+{insert "Tour Booking Page" image here}
+> 1280 x 720 px — PNG or JPG
+ 
+### 📱 Flutter Mobile App
+{insert "Flutter Mobile App" image here}
+> 390 x 844 px — PNG or JPG
  
 ---
  
+## 🤝 Contributing
+ 
+Contributions, issues and feature requests are welcome!
+ 
+```bash
+# Fork the repo and create your branch
+git checkout -b feature/your-feature-name
+ 
+# Make your changes and commit
+git commit -m "feat: add your feature description"
+ 
+# Push and open a Pull Request
+git push origin feature/your-feature-name
+```
+  
