@@ -2,7 +2,7 @@
  
 <img src="https://moonbnb.goodcoderz.com/uploads/0000/7/2026/01/29/logo.png" alt="MoonBnb Logo" width="200"/>
  
-# 🌙 MoonBnb — Airbnb Clone
+# MoonBnB — Airbnb Clone
  
 ### A full-stack travel & accommodation booking platform built with Laravel + Flutter.  
 Replicates the core experience of Airbnb with extended support for Hotels, Spaces, Tours, Cars, Events, Boats & Flights.
