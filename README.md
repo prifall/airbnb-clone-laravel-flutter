@@ -485,29 +485,20 @@ php artisan queue:work --daemon
 ## 📱 Screenshots
  
 ### 🏠 Homepage
-{insert "Homepage Screenshot" image here}
-> 1280 x 720 px — PNG or JPG
- 
+<img width="1900" height="1153" alt="Homepage" src="https://github.com/user-attachments/assets/35f11f42-f2bd-4c1f-b25c-0ec5e161433a" />
+
 ### 🏨 Hotel Listing
-{insert "Hotel Listing Page" image here}
-> 1280 x 720 px — PNG or JPG
- 
-### 🏡 Space Detail
-{insert "Space Detail Page" image here}
-> 1280 x 720 px — PNG or JPG
- 
-### 🗺️ Map View
-{insert "Map View" image here}
-> 1280 x 720 px — PNG or JPG
- 
-### 🧭 Tour Booking
-{insert "Tour Booking Page" image here}
-> 1280 x 720 px — PNG or JPG
+<img width="1900" height="1153" alt="Hotel Listing" src="https://github.com/user-attachments/assets/5f9ade6f-3a80-4035-b324-27e0000e4b1e" />
+
+ ### 🏡 Space Detail
+<img width="1900" height="1153" alt="Space Detail" src="https://github.com/user-attachments/assets/6a1d455f-96d6-41a5-8c3a-4904cb12a23e" />
+
+ ### 🧭 Tour Booking
+<img width="1900" height="1153" alt="Tour Booking" src="https://github.com/user-attachments/assets/086dffac-ace4-45fd-ad66-747f0f96b27c" />
  
 ### 📱 Flutter Mobile App
-{insert "Flutter Mobile App" image here}
-> 390 x 844 px — PNG or JPG
- 
+<img width="400" height="829" alt="iMockup - iPhone 15 Pro Max" src="https://github.com/user-attachments/assets/ea4562c5-529e-4d7a-8161-3a4959311611" />
+
 ---
  
 ## 🤝 Contributing
